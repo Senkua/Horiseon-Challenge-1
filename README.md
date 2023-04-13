@@ -3,9 +3,8 @@
 ## Description
 
 - I created this project to add fixes and accessibility to the website Horiseon.
-- The fixes applied make all the links work
-- I learnt about some basic debugging and how to spot an error.
-
+- The fixes applied make all the links work / fix unproperly commented css.
+- I learnt about some basic debugging and how to spot multiple errors involving font comments and id errors.
 
 ## Installation
 
