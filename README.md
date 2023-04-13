@@ -17,7 +17,7 @@ This website lets you see useful info about increasing buisness visibility, mana
 
 ## Credits
 
-https://www.youtube.com/watch?v=CEjaKXYeaJU - whatsdev on youtube, I used this video to help debug the issue of: Upon clicking on search engine optimization, it did not bring you to the corresponding image as the others did. by using this video I learnt it waas missing the ID
+https://www.youtube.com/watch?v=CEjaKXYeaJU - whatsdev on youtube, I used this video to help debug the issue of: Upon clicking on search engine optimization, it did not bring you to the corresponding image as the others did. By using this video I learnt it waas missing the ID
 
 https://github.com/Xandromus The starting code for the website was provided by this github user. 
 
