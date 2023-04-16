@@ -198,3 +198,15 @@ body {
 .footer h2 {
     font-size: 20px;
 }
+
+.Headeropts
+{
+    color:white;
+    text-decoration: none;
+}
+
+.Headeropts:hover
+{
+    color:black;
+    text-decoration: none;
+}
