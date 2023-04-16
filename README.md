@@ -3,7 +3,7 @@
 ## Description
 
 - I created this project to add fixes and accessibility to the website Horiseon.
-- The fixes applied make all the links work / fix unproperly commented css.
+- The fixes applied make all the links work / fix unproperly classed css as well as unproperly commented font, in addition, a hover color when hovering over the three header options was added as well.
 - I learnt about some basic debugging and how to spot multiple errors involving font comments and id errors.
 
 ## Installation
