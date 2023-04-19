@@ -14,11 +14,11 @@ N/A
 
 This website lets you see useful info about increasing buisness visibility, managing what customers see about your buisness and social media marketing for your buisness. You may access the deployed application here: https://senkua.github.io/Horiseon-Challenge-1/ 
 
-Here are some screenshots showcasing the Website: 
+Here are some screenshots showcasing the Website :
 
-![Website](E:\UOFTCoding\Repos\HoriseonChallenge\images\Horiseon1.png)
+![Horiseon](assets\images\Horiseon1.png)
 
-![Website2](E:\UOFTCoding\Repos\HoriseonChallenge\images\Horiseon2.png)
+![Horiseon2](assets\images\Horiseon2.png)
 
 ## Credits
 
