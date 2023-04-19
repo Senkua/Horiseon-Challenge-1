@@ -16,9 +16,9 @@ This website lets you see useful info about increasing buisness visibility, mana
 
 Here are some screenshots showcasing the Website :
 
-![Horiseon](assets\images\Horiseon1.png)
+![Horiseon](assets/images/Horiseon1.png)
 
-![Horiseon2](assets\images\Horiseon2.png)
+![Horiseon2](assets/images/Horiseon2.png)
 
 ## Credits
 
