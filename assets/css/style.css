@@ -8,21 +8,16 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Added justify content: end; to keep header options on the correct side*/
+
+/*organized headers in sequantial order and consolidated code*/
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', sans-serif;
     background-color: #2a607c;
     color: #ffffff;
     justify-content: end;
-}
-
-header h1 {
-    display: inline-block;
-    font-size: 48px;
-}
-
-header h1 .seo {
-    color: #d9dcd6;
 }
 
 header section {
@@ -42,9 +37,44 @@ header section ul li {
     margin-left: 25px;
 }
 
-.Headeropts:visited {
-    color: #ffffff;
-    text-decoration: none;
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+header h1 .seo {
+    color: #d9dcd6;
+}
+
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+
+.benefit-lead h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
 }
 
 .hero {
@@ -102,21 +132,6 @@ header section ul li {
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
-}
-
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
 }
 
 .benefit-lead img {
@@ -182,20 +197,6 @@ header section ul li {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 /*fixed font commenting*/
 
@@ -208,6 +209,11 @@ footer {
 
 footer h2 {
     font-size: 20px;
+}
+
+.Headeropts:visited {
+    color: #ffffff;
+    text-decoration: none;
 }
 
 .Headeropts

@@ -26,6 +26,7 @@ https://www.youtube.com/watch?v=CEjaKXYeaJU - whatsdev on youtube, I used this v
 
 https://github.com/Xandromus The starting code for the website was provided by this github user. 
 
+https://www.youtube.com/watch?v=bOUhq46fd5g I learnt about Html semantics and how to apply them from this youtuber.
 
 ## License
 
